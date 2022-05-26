@@ -25,7 +25,7 @@ npm install import-python-web
 ## QuickStart:
 To import python functions, you can add this to the top of your code:
 ```js
-const { py_import_star, py_import } = require("import-python")
+const { py_import_star, py_import } = require("import-python-web")
 
 // Import everything from a module into global variables
 py_import_star("core")
