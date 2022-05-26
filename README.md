@@ -12,7 +12,7 @@ Completed modules:
   - string
 
 Full documentation can be located at:
-https://import-python.readthedocs.io/en/latest/index.html
+https://import-python-web.readthedocs.io/en/latest/index.html
 
 
 # Usage
