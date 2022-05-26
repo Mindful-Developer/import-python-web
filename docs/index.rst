@@ -1,6 +1,6 @@
-=========================================
-Welcome to import-python's documentation!
-=========================================
+=============================================
+Welcome to import-python-web's documentation!
+=============================================
 
 **import-python-web** - Python's built-in functions, classes and (some) modules ported to 
 JavaScript. Most are pretty close to the same functionality as the python version 
