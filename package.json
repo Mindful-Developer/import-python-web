@@ -1,6 +1,6 @@
 {
   "name": "import-python-web",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Python built-in functions, classes and (some) modules ported to JavaScript with no dependencies and web compatibility",
   "main": "import-python-web.js",
   "scripts": {
