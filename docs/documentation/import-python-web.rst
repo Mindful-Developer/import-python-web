@@ -1,6 +1,6 @@
-=============
-import-python
-=============
+=================
+import-python-web
+=================
 
 
 .. autofunction:: py_import

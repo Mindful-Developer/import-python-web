@@ -23,7 +23,7 @@ Contents
 .. toctree::
 
    usage
-   documentation/import-python
+   documentation/import-python-web
    documentation/core
    documentation/random
    documentation/itertools
@@ -34,5 +34,3 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

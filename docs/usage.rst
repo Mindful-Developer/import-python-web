@@ -8,7 +8,7 @@ Installation
 
 .. code-block:: console
 
-   npm install import-python
+   npm install import-python-web
 
 
 Quickstart
@@ -16,7 +16,7 @@ Quickstart
 
 .. code-block:: javascript
 
-   const { py_import_star, py_import } = require('import-python')
+   const { py_import_star, py_import } = require('import-python-web')
    const itertools = py_import('itertools') // import a module
    const { randint } = py_import('random') // destructured import
 
@@ -27,9 +27,3 @@ Quickstart
    from (let i of range(10, 20, 2)) {
       print(list([i, randint(10, 20)]), end=', ')
    }
-
-
-Examples
---------
-
-none yet
