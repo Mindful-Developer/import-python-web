@@ -216,8 +216,6 @@ Functions
 
 .. autofunction:: hex
 
-.. autofunction:: input
-
 .. autofunction:: int
 
 .. autofunction:: isinstance

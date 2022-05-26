@@ -76,7 +76,6 @@ print(random.randint(1, 5))
   - getattr,
   - hasattr,
   - hex,
-  - input,
   - int,
   - isinstance,
   - issubclass,
