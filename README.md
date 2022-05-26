@@ -1,4 +1,4 @@
-# import-python
+# import-python-web
 Python's built-in functions, classes and (some) modules ported to JavaScript. Most are pretty close to the same functionality as the python version of the function or class. 
 
 * not web friendly (working on it!) *
@@ -19,7 +19,7 @@ https://import-python.readthedocs.io/en/latest/index.html
 
 ## Installation:
 ```
-npm install import-python
+npm install import-python-web
 ```
 
 ## QuickStart:
@@ -47,7 +47,6 @@ print(random.randint(1, 5))
   - String methods (built into existing String class)
   - Complex,
   - Dict,
-  - FileObject,
   - FrozenSet,
   - List,
   - Tuple,
@@ -90,7 +89,6 @@ print(random.randint(1, 5))
   - min,
   - next,
   - oct,
-  - open,
   - ord,
   - pow,
   - print,
